@@ -1,0 +1,27 @@
+.footer {
+  bottom: 0;
+  position: absolute;
+  width: 100%;
+  height: 6rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #8abd9187;
+}
+
+.location {
+  flex: 1;
+  margin-left: 40px;
+}
+
+.location h3 {
+  margin-bottom: 5px;
+}
+
+.location span {
+  margin-top: 5px;
+}
+
+.copyright {
+  margin-right: 40px;
+}
