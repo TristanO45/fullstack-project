@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./src",
+    "jsx": "react-jsx",
+    "moduleResolution": "Node",
+    "plugins": [{ "name": "typescript-plugin-css-modules" }],
+    "paths": {
+      "~*": ["./*"]
+    },
+    "strict": true,
+    "target": "ES2015",
+    "allowSyntheticDefaultImports": true
+  },
+  "include": ["src/**/*"]
+}

@@ -1,0 +1,17 @@
+.header {
+  width: 100%;
+  height: 6rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #9caf88;
+}
+
+.companyName {
+  background: #efecdd;
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 4rem;
+  font-weight: bold;
+}
