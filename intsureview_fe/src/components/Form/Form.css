@@ -14,7 +14,7 @@
   align-items: center;
   justify-content: center;
   flex-direction: column;
-  padding: 4%;
+  padding: 2%;
   margin: auto;
 }
 
@@ -28,7 +28,7 @@ input,
 .newCustomer-dropdown {
   padding: 8px;
   margin-bottom: 16px;
-  width: 100%; /* Make input fields and dropdown take the full width */
+  width: 100%;
 }
 
 .submitButton {
